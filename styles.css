@@ -341,7 +341,7 @@ html {
   background-color: transparent;
   color: var(--icons-color);
   transition: color 250ms var(--standart-cubic),
-    background-color 250ms var(--standart-cubic);
+   background-color 250ms var(--standart-cubic);
 }
 .social-link-ikon {
   fill: currentColor;
